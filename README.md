@@ -11,9 +11,9 @@
     - **MATH 1152:** Test 2 of equations and inequalities.
 
 - ***Wednesday:***
-
+    - **COMP1234:** Assignment 01
 - ***Thursday:***
 
 - ***Friday:***
     - **COMM 2000:** email assignment / until 11:59PM
-    - **COMP 1151:** Cisco Chapter 4 / until 11:59PM
+    - **COMP 1151:** Cisco Chapter 5 / until 11:59PM
