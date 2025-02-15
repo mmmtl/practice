@@ -5,15 +5,26 @@
 - [COMP1238 Repository](comp1238.md)
 
 ## Schedule
-- ***Monday:***
+- ***Monday***
 
-- ***Tuesday:***
+
+- ***Tuesday***
     - **MATH 1152:** Test 2 of equations and inequalities.
 
-- ***Wednesday:***
-    - **COMP1234:** Assignment 01
-- ***Thursday:***
 
-- ***Friday:***
-    - **COMM 2000:** email assignment / until 11:59PM
-    - **COMP 1151:** Cisco Chapter 5 / until 11:59PM
+- ***Wednesday***
+    - **COMP1234:** Assignment 01 submission
+
+
+- ***Thursday***
+
+- ***Friday***
+    - **COMM 1236:** Quiz 5 and Mock Exam 
+    - **COMP 1151:** Cisco Chapter 4 / until 11:59PM
+
+
+- ***Saturday***
+
+
+- ***Sunday***
+    - **COMP 1238:** Home assignment
