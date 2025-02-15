@@ -6,25 +6,16 @@
 
 ## Schedule
 - ***Monday***
-
+    - [COMP1236](https://learn.georgebrown.ca/d2l/home/337951))
 
 - ***Tuesday***
-    - **MATH 1152:** Test 2 of equations and inequalities.
+    - [COMP1238](https://learn.georgebrown.ca/d2l/home/334969)
 
 
 - ***Wednesday***
-    - **COMP1234:** Assignment 01 submission
-
+    - [COMP1234](https://learn.georgebrown.ca/d2l/home/342908)
 
 - ***Thursday***
 
 - ***Friday***
-    - **COMM 1236:** Quiz 5 and Mock Exam 
-    - **COMP 1151:** Cisco Chapter 4 / until 11:59PM
-
-
-- ***Saturday***
-
-
-- ***Sunday***
-    - **COMP 1238:** Home assignment
+    - [COMP 1151](https://learn.georgebrown.ca/d2l/home/335096)
