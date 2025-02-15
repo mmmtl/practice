@@ -6,7 +6,7 @@
 
 ## Schedule
 - ***Monday***
-    - [COMP1236](https://learn.georgebrown.ca/d2l/home/337951))
+    - [COMP1236](https://learn.georgebrown.ca/d2l/home/337951)
 
 - ***Tuesday***
     - [COMP1238](https://learn.georgebrown.ca/d2l/home/334969)
